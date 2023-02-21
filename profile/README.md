@@ -5,8 +5,8 @@
 ## 멤버
 * 팀장
 * 팀원
-  * FE :
-  * BE : 정승훈
+  * FE : 김효은, 김민경
+  * BE : 
   
 Tech Stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
